@@ -1,0 +1,336 @@
+"","rocketType","country","family","numberOfLaunches","numberOfFailures"
+"1","Aerobee","USA","Aerobee",1,0
+"2","Angara A5","Russia/USSR","Angara",1,0
+"3","Antares 110","USA","Antares",2,0
+"4","Antares 120","USA","Antares",2,0
+"5","Antares 130","USA","Antares",1,1
+"6","Antares 230","USA","Antares",5,0
+"7","Antares 230+","USA","Antares",3,0
+"8","Ariane 1","Europe","Ariane",11,2
+"9","Ariane 2","Europe","Ariane",6,1
+"10","Ariane 3","Europe","Ariane",11,1
+"11","Ariane 40","Europe","Ariane",7,0
+"12","Ariane 42L","Europe","Ariane",13,0
+"13","Ariane 42P","Europe","Ariane",15,1
+"14","Ariane 44L","Europe","Ariane",40,1
+"15","Ariane 44LP","Europe","Ariane",26,1
+"16","Ariane 44P","Europe","Ariane",15,0
+"17","Ariane 5ECA","Europe","Ariane",72,1
+"18","Ariane 5ECA+","Europe","Ariane",4,0
+"19","Ariane 5ES","Europe","Ariane",3,0
+"20","Ariane 5ES/ATV","Europe","Ariane",5,0
+"21","Ariane 5G","Europe","Ariane",16,3
+"22","Ariane 5G+","Europe","Ariane",3,0
+"23","Ariane 5GS","Europe","Ariane",6,0
+"24","ARPA Taurus","USA","ARPA",2,0
+"25","Athena-2","USA","Athena",2,1
+"26","Atlas 3A","USA","Atlas",2,0
+"27","Atlas 3B","USA","Atlas",4,0
+"28","Atlas Able","USA","Atlas",3,3
+"29","Atlas Agena A","USA","Atlas",4,2
+"30","Atlas Agena B","USA","Atlas",28,5
+"31","Atlas Agena D","USA","Atlas",15,0
+"32","Atlas B","USA","Atlas",1,0
+"33","Atlas Burner 2","USA","Atlas",2,1
+"34","Atlas Centaur","USA","Atlas",4,2
+"35","Atlas Centaur D","USA","Atlas",7,0
+"36","Atlas D","USA","Atlas",16,4
+"37","Atlas E","USA","Atlas",15,0
+"38","Atlas E Altair","USA","Atlas",1,0
+"39","Atlas E/MSD","USA","Atlas",1,1
+"40","Atlas E/OIS","USA","Atlas",1,0
+"41","Atlas E/SGS-2","USA","Atlas",4,0
+"42","Atlas E/SVS","USA","Atlas",1,1
+"43","Atlas F","USA","Atlas",9,1
+"44","Atlas F/Agena D","USA","Atlas",1,0
+"45","Atlas F/MSD","USA","Atlas",3,0
+"46","Atlas F/OIS","USA","Atlas",1,0
+"47","Atlas F/PTS","USA","Atlas",1,0
+"48","Atlas F/SVS","USA","Atlas",7,0
+"49","Atlas G Centaur","USA","Atlas",7,1
+"50","Atlas H","USA","Atlas",5,0
+"51","Atlas I","USA","Atlas",11,2
+"52","Atlas II","USA","Atlas",10,0
+"53","Atlas IIA","USA","Atlas",23,0
+"54","Atlas IIAS","USA","Atlas",30,0
+"55","Atlas SLV-3","USA","Atlas",4,0
+"56","Atlas SLV-3 Agena B","USA","Atlas",1,0
+"57","Atlas SLV-3 Agena D","USA","Atlas",48,4
+"58","Atlas SLV-3A Agena D","USA","Atlas",12,1
+"59","Atlas SLV-3C Centaur","USA","Atlas",17,2
+"60","Atlas SLV-3D Centaur","USA","Atlas",32,2
+"61","Atlas V 401","USA","Atlas",38,1
+"62","Atlas V 411","USA","Atlas",6,0
+"63","Atlas V 421","USA","Atlas",7,0
+"64","Atlas V 431","USA","Atlas",3,0
+"65","Atlas V 501","USA","Atlas",7,0
+"66","Atlas V 521","USA","Atlas",2,0
+"67","Atlas V 531","USA","Atlas",4,0
+"68","Atlas V 541","USA","Atlas",7,0
+"69","Atlas V 551","USA","Atlas",11,0
+"70","Atlas V N22","USA","Atlas",1,0
+"71","Blue Scout II","USA","Blue",1,1
+"72","Blue Scout Jr","USA","Blue",8,0
+"73","Chang Zheng 1","China","Chang",2,0
+"74","Chang Zheng 11","China","Chang",9,0
+"75","Chang Zheng 2","China","Chang",1,1
+"76","Chang Zheng 2C","China","Chang",49,1
+"77","Chang Zheng 2C-III/SD","China","Chang",7,0
+"78","Chang Zheng 2C/YZ-1S","China","Chang",1,0
+"79","Chang Zheng 2D","China","Chang",50,0
+"80","Chang Zheng 2D/YZ-3","China","Chang",1,0
+"81","Chang Zheng 2E","China","Chang",7,2
+"82","Chang Zheng 2F","China","Chang",13,0
+"83","Chang Zheng 2FT1","China","Chang",1,0
+"84","Chang Zheng 3","China","Chang",13,1
+"85","Chang Zheng 3A","China","Chang",27,0
+"86","Chang Zheng 3B","China","Chang",58,4
+"87","Chang Zheng 3B/YZ-1","China","Chang",13,0
+"88","Chang Zheng 3C","China","Chang",15,0
+"89","Chang Zheng 3C/YZ-1","China","Chang",2,0
+"90","Chang Zheng 4","China","Chang",2,0
+"91","Chang Zheng 4B","China","Chang",40,1
+"92","Chang Zheng 4C","China","Chang",28,2
+"93","Chang Zheng 5","China","Chang",3,1
+"94","Chang Zheng 5/YZ-2","China","Chang",1,0
+"95","Chang Zheng 5B","China","Chang",1,0
+"96","Chang Zheng 6","China","Chang",4,0
+"97","Chang Zheng 7","China","Chang",1,0
+"98","Chang Zheng 7/YZ-1A","China","Chang",1,0
+"99","Chang Zheng 7A","China","Chang",1,1
+"100","Commercial Titan 3","USA","Commercial",4,0
+"101","Conestoga 1620","USA","Conestoga",1,1
+"102","Delta 0300","USA","Delta",3,1
+"103","Delta 0900","USA","Delta",2,0
+"104","Delta 1410","USA","Delta",1,0
+"105","Delta 1604","USA","Delta",2,0
+"106","Delta 1900","USA","Delta",1,0
+"107","Delta 1910","USA","Delta",1,0
+"108","Delta 1913","USA","Delta",1,0
+"109","Delta 1914","USA","Delta",2,0
+"110","Delta 2310","USA","Delta",3,0
+"111","Delta 2313","USA","Delta",3,1
+"112","Delta 2910","USA","Delta",6,0
+"113","Delta 2913","USA","Delta",2,0
+"114","Delta 2914","USA","Delta",30,2
+"115","Delta 3910","USA","Delta",3,0
+"116","Delta 3910/PAM","USA","Delta",7,0
+"117","Delta 3913","USA","Delta",1,0
+"118","Delta 3914","USA","Delta",12,2
+"119","Delta 3920","USA","Delta",3,0
+"120","Delta 3920-8","USA","Delta",1,0
+"121","Delta 3920/PAM","USA","Delta",6,0
+"122","Delta 3924","USA","Delta",5,0
+"123","Delta 4925-8","USA","Delta",2,0
+"124","Delta 4H","USA","Delta",10,1
+"125","Delta 4H/Star 48BV","USA","Delta",1,0
+"126","Delta 4M","USA","Delta",3,0
+"127","Delta 4M+(4,2)","USA","Delta",15,0
+"128","Delta 4M+(5,2)","USA","Delta",4,0
+"129","Delta 4M+(5,4)","USA","Delta",7,0
+"130","Delta 5920-8","USA","Delta",1,0
+"131","Delta 6920-10","USA","Delta",2,0
+"132","Delta 6920-8","USA","Delta",1,0
+"133","Delta 6925","USA","Delta",13,0
+"134","Delta 6925-8","USA","Delta",1,0
+"135","Delta 7320-10","USA","Delta",4,0
+"136","Delta 7320-10C","USA","Delta",8,0
+"137","Delta 7326-9.5","USA","Delta",3,0
+"138","Delta 7420-10C","USA","Delta",14,0
+"139","Delta 7425-10","USA","Delta",1,0
+"140","Delta 7425-9.5","USA","Delta",3,0
+"141","Delta 7426-9.5","USA","Delta",1,0
+"142","Delta 7920-10","USA","Delta",6,0
+"143","Delta 7920-10C","USA","Delta",20,0
+"144","Delta 7920-10L","USA","Delta",2,0
+"145","Delta 7920-8","USA","Delta",1,0
+"146","Delta 7920H","USA","Delta",3,0
+"147","Delta 7925","USA","Delta",34,2
+"148","Delta 7925-10","USA","Delta",2,0
+"149","Delta 7925-10C","USA","Delta",1,0
+"150","Delta 7925-10L","USA","Delta",2,0
+"151","Delta 7925-8","USA","Delta",2,0
+"152","Delta 7925-9.5","USA","Delta",28,0
+"153","Delta 7925H","USA","Delta",3,0
+"154","Delta 8930","USA","Delta",3,2
+"155","DF-21","China","DF",1,0
+"156","Diamant B","Europe","Diamant",5,2
+"157","Diamant BP.4","Europe","Diamant",3,0
+"158","Dnepr","Russia/USSR","Dnepr",22,1
+"159","Energiya","Russia/USSR","Energiya",1,1
+"160","Energiya/Buran","Russia/USSR","Energiya",1,0
+"161","Europa II","Europe","Europa",1,1
+"162","Falcon 1","USA","Falcon",5,3
+"163","Falcon 9","USA","Falcon",97,1
+"164","Falcon Heavy","USA","Falcon",3,0
+"165","Feng Bao 1","China","Feng",8,4
+"166","Gushenxing 1","China","Gushenxing",1,0
+"167","Jielong-1","China","Jielong",1,0
+"168","Juno II","USA","Juno",10,5
+"169","Jupiter C","USA","Jupiter",6,3
+"170","K65M-RB","Russia/USSR","K",4,0
+"171","Kosmos 11K63","Russia/USSR","Kosmos",126,8
+"172","Kosmos 11K65","Russia/USSR","Kosmos",4,2
+"173","Kosmos 11K65M","Russia/USSR","Kosmos",443,22
+"174","Kosmos 63S1","Russia/USSR","Kosmos",38,12
+"175","Kosmos 65S3","Russia/USSR","Kosmos",8,1
+"176","KT-1","China","KT",3,3
+"177","KT-2","China","KT",1,0
+"178","Kuaizhou","China","Kuaizhou",2,0
+"179","Kuaizhou 11","China","Kuaizhou",1,1
+"180","Kuaizhou-1A","China","Kuaizhou",10,1
+"181","LLV-1","USA","LLV",1,1
+"182","LMLV-1","USA","LMLV",1,0
+"183","Minotaur 1","USA","Minotaur",11,0
+"184","Minotaur IV","USA","Minotaur",2,1
+"185","Minotaur V","USA","Minotaur",1,0
+"186","Minotaur-C 3210","USA","Minotaur",1,0
+"187","Molniya 8K78","Russia/USSR","Molniya",40,20
+"188","Molniya 8K78M","Russia/USSR","Molniya",272,13
+"189","Molniya 8K78M-PVB","Russia/USSR","Molniya",8,0
+"190","N-1 11A52","Russia/USSR","N",4,4
+"191","Nike Cajun","USA","Nike",4,0
+"192","NOTS EV1","USA","NOTS",6,6
+"193","OS-M1","China","OS",1,1
+"194","Proton-K","Russia/USSR","Proton",29,3
+"195","Proton-K/17S40","Russia/USSR","Proton",6,0
+"196","Proton-K/Briz-M","Russia/USSR","Proton",4,1
+"197","Proton-K/D","Russia/USSR","Proton",37,14
+"198","Proton-K/D-1","Russia/USSR","Proton",12,1
+"199","Proton-K/D-2","Russia/USSR","Proton",3,0
+"200","Proton-K/DM","Russia/USSR","Proton",66,5
+"201","Proton-K/DM-2","Russia/USSR","Proton",110,7
+"202","Proton-K/DM-2M","Russia/USSR","Proton",41,2
+"203","Proton-M/Briz-M","Russia/USSR","Proton",99,8
+"204","Proton-M/DM-2","Russia/USSR","Proton",6,0
+"205","Proton-M/DM-3","Russia/USSR","Proton",5,2
+"206","R-36O 8K69","Russia/USSR","R",21,2
+"207","R-36O 8K69M","Russia/USSR","R",2,0
+"208","Rokot","Russia/USSR","Rokot",32,3
+"209","Saturn I","USA","Saturn",6,0
+"210","Saturn IB","USA","Saturn",7,0
+"211","Saturn V","USA","Saturn",13,0
+"212","Scout A","USA","Scout",11,0
+"213","Scout A-1","USA","Scout",1,0
+"214","Scout B","USA","Scout",23,2
+"215","Scout B-1","USA","Scout",5,0
+"216","Scout D-1","USA","Scout",16,0
+"217","Scout E-1","USA","Scout",1,0
+"218","Scout F-1","USA","Scout",2,1
+"219","Scout G-1","USA","Scout",17,0
+"220","Scout X-1","USA","Scout",6,2
+"221","Scout X-2","USA","Scout",2,1
+"222","Scout X-2B","USA","Scout",1,1
+"223","Scout X-2M","USA","Scout",3,2
+"224","Scout X-3","USA","Scout",5,1
+"225","Scout X-3A","USA","Scout",1,0
+"226","Scout X-3M","USA","Scout",1,0
+"227","Scout X-4","USA","Scout",12,1
+"228","Scout X-4A","USA","Scout",2,0
+"229","Shuang Quxian 1","China","Shuang",1,0
+"230","Soyuz 11A510","Russia/USSR","Soyuz",2,0
+"231","Soyuz 11A511","Russia/USSR","Soyuz",32,2
+"232","Soyuz 11A511L","Russia/USSR","Soyuz",3,0
+"233","Soyuz 11A511M","Russia/USSR","Soyuz",8,0
+"234","Soyuz-2-1A","Russia/USSR","Soyuz",41,2
+"235","Soyuz-2-1B","Russia/USSR","Soyuz",39,2
+"236","Soyuz-2-1V","Russia/USSR","Soyuz",6,1
+"237","Soyuz-FG","Russia/USSR","Soyuz",70,1
+"238","Soyuz-ST-A","Europe","Soyuz",7,0
+"239","Soyuz-ST-B","Europe","Soyuz",16,1
+"240","Soyuz-U","Russia/USSR","Soyuz",633,18
+"241","Soyuz-U-PVB","Russia/USSR","Soyuz",154,4
+"242","Soyuz-U2","Russia/USSR","Soyuz",72,0
+"243","Space Shuttle","USA","Space",135,1
+"244","Sputnik 11A59","Russia/USSR","Sputnik",2,0
+"245","Sputnik 8A91","Russia/USSR","Sputnik",2,1
+"246","Sputnik 8K71PS","Russia/USSR","Sputnik",2,0
+"247","Start-1","Russia/USSR","Start",4,0
+"248","Start-1.2","Russia/USSR","Start",1,0
+"249","Strela","Russia/USSR","Strela",3,0
+"250","Taurus 1110","USA","Taurus",1,0
+"251","Taurus 2110","USA","Taurus",2,1
+"252","Taurus 2210","USA","Taurus",1,0
+"253","Taurus 3110","USA","Taurus",2,2
+"254","Taurus 3210","USA","Taurus",1,0
+"255","Thor Able I","USA","Thor",3,2
+"256","Thor Able II","USA","Thor",2,1
+"257","Thor Able III","USA","Thor",1,0
+"258","Thor Able IV","USA","Thor",1,0
+"259","Thor Ablestar","USA","Thor",19,5
+"260","Thor Agena A","USA","Thor",15,6
+"261","Thor Agena B","USA","Thor",40,7
+"262","Thor Agena D","USA","Thor",13,2
+"263","Thor Burner 1","USA","Thor",4,1
+"264","Thor Burner 2","USA","Thor",12,0
+"265","Thor Burner 2A","USA","Thor",8,0
+"266","Thor Delta","USA","Thor",12,1
+"267","Thor Delta A","USA","Thor",2,0
+"268","Thor Delta B","USA","Thor",9,1
+"269","Thor Delta C","USA","Thor",10,2
+"270","Thor Delta C1","USA","Thor",3,0
+"271","Thor Delta D","USA","Thor",2,0
+"272","Thor Delta E","USA","Thor",6,0
+"273","Thor Delta E1","USA","Thor",17,1
+"274","Thor Delta G","USA","Thor",2,0
+"275","Thor Delta J","USA","Thor",1,0
+"276","Thor Delta L","USA","Thor",2,1
+"277","Thor Delta M","USA","Thor",12,2
+"278","Thor Delta M6","USA","Thor",1,0
+"279","Thor Delta N","USA","Thor",6,1
+"280","Thor Delta N6","USA","Thor",3,1
+"281","Thor DSV-2U","USA","Thor",5,1
+"282","Thor MG-18","USA","Thor",2,0
+"283","Thor SLV-2 Agena B","USA","Thor",3,0
+"284","Thor SLV-2 Agena D","USA","Thor",8,2
+"285","Thor SLV-2A Agena B","USA","Thor",2,0
+"286","Thor SLV-2A Agena D","USA","Thor",61,4
+"287","Thorad SLV-2G Agena D","USA","Thorad",30,1
+"288","Thorad SLV-2H Agena D","USA","Thorad",13,1
+"289","Titan 23B","USA","Titan",9,0
+"290","Titan 24B","USA","Titan",23,2
+"291","Titan 33B","USA","Titan",3,1
+"292","Titan 34B","USA","Titan",11,0
+"293","Titan 34D","USA","Titan",7,2
+"294","Titan 34D/IUS","USA","Titan",1,0
+"295","Titan 34D/Transtage","USA","Titan",7,0
+"296","Titan 401A/Centaur","USA","Titan",9,1
+"297","Titan 401B/Centaur","USA","Titan",7,1
+"298","Titan 402A/IUS","USA","Titan",3,0
+"299","Titan 402B/IUS","USA","Titan",5,1
+"300","Titan 403A","USA","Titan",5,1
+"301","Titan 403B","USA","Titan",1,0
+"302","Titan 404A","USA","Titan",3,0
+"303","Titan 404B","USA","Titan",3,0
+"304","Titan 405A","USA","Titan",2,0
+"305","Titan 405B","USA","Titan",1,0
+"306","Titan II GLV","USA","Titan",12,0
+"307","Titan II SLV","USA","Titan",13,1
+"308","Titan IIIA","USA","Titan",4,1
+"309","Titan IIIB","USA","Titan",22,1
+"310","Titan IIIC","USA","Titan",36,2
+"311","Titan IIID","USA","Titan",22,0
+"312","Titan IIIE","USA","Titan",7,1
+"313","Trailblazer 1","USA","Trailblazer",1,0
+"314","Trailblazer 2","USA","Trailblazer",3,0
+"315","Tsiklon-2","Russia/USSR","Tsiklon",105,2
+"316","Tsiklon-2A","Russia/USSR","Tsiklon",8,1
+"317","Tsiklon-3","Russia/USSR","Tsiklon",122,7
+"318","Uprated Saturn I","USA","Uprated",2,0
+"319","UR-500","Russia/USSR","UR",4,1
+"320","UR-500K/Blok D","Russia/USSR","UR",1,0
+"321","Vanguard","USA","Vanguard",11,8
+"322","Vega","Europe","Vega",16,1
+"323","Voskhod 11A57","Russia/USSR","Voskhod",299,13
+"324","Vostok 8A92","Russia/USSR","Vostok",44,4
+"325","Vostok 8A92M","Russia/USSR","Vostok",93,1
+"326","Vostok 8K72","Russia/USSR","Vostok",4,1
+"327","Vostok 8K72K","Russia/USSR","Vostok",13,2
+"328","Vostok-L 8K72","Russia/USSR","Vostok",9,6
+"329","Zenit-2","Russia/USSR","Zenit",35,6
+"330","Zenit-2 11K77.05","Russia/USSR","Zenit",1,1
+"331","Zenit-2M","Russia/USSR","Zenit",1,0
+"332","Zenit-2SB","Russia/USSR","Zenit",1,0
+"333","Zenit-3SLB","Russia/USSR","Zenit",6,0
+"334","Zenit-3SLBF","Russia/USSR","Zenit",4,0
+"335","Zhuque-1","China","Zhuque",1,1
